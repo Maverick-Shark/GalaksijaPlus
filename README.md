@@ -1,4 +1,5 @@
-# Galaksija PLUS FPGA core for Poseidon-EP4CGX150 (WIP)
+# Galaksija PLUS FPGA core for NeptUNO+ (ported from Poseidon-EP4CGX150 (WIP))
+# Thanks to @turri21
 
 This port has been made thanks to the following sources: 
 
